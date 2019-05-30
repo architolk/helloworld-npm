@@ -1,6 +1,6 @@
 # The NPM hello world app
 
-## Instalation from scratch
+## Installation from scratch
 With an empty folder, execute:
 
 ```
