@@ -52,4 +52,4 @@ Build the distribution (actually main.js in the dist folder) by:
 npm run build
 ```
 
-(you might want to change the `mode` setting in webpack.config.js to set the build to production mode. This will -among other things- minify the javscript code).
+(you might want to change the `mode` setting in webpack.config.js to set the build to production mode. This will -among other things- minify the javascript code).
