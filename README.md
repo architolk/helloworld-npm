@@ -43,3 +43,13 @@ npm start
 (only the last command is actually needed to start the demo, the first three commands only need to be performed ones at installation).
 
 Open your browser at http://localhost:8080 to see the hello world app.
+
+## Building for distribution
+
+Build the distribution (actually main.js in the dist folder) by:
+
+```
+npm run build
+```
+
+(you might want to change the `mode` setting in webpack.config.js to set the build to production mode. This will -among other things- minify the javscript code).
