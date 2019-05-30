@@ -22,3 +22,24 @@ npm install webpack-dev-server --save-dev
 ```
 
 This will add the webpack and webpack-cli dependencies to the package.json file and installs the dependency modules. The third dependency adds a development http server to the environment.
+
+## Basics for Webpack
+
+The basics for webpack are described at [webpack: getting started](https://webpack.js.org/guides/getting-started).
+
+The basics for development (including the webpack-dev-server) are described at [webpack: development](https://webpack.js.org/guides/development).
+
+## Running
+
+Start the demo with the following commands:
+
+```
+git clone git@github.com:architolk/helloworld-npm.git
+cd helloworld-npm
+npm install
+npm start
+```
+
+(only the last command is actually needed to start the demo, the first three commands only need to be performed ones at installation).
+
+Open your browser at http://localhost:8080 to see the hello world app.
