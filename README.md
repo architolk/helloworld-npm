@@ -1,6 +1,12 @@
 # The NPM hello world app
 
 ## Installation from scratch
+Prerequisite: nodejs and npm. Install from the [official website](https://nodejs.org/en/download/), or on osx via homebrew:
+
+```
+brew install node
+```
+
 With an empty folder, execute:
 
 ```
