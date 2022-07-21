@@ -35,6 +35,14 @@ The basics for webpack are described at [webpack: getting started](https://webpa
 
 The basics for development (including the webpack-dev-server) are described at [webpack: development](https://webpack.js.org/guides/development).
 
+## Final result
+
+After performing the instructions from the links above, the following files will be available:
+- [package.json](package.json);
+- [webpack.config.js](webpack.config.js);
+- [src/index.js](src/index.js);
+- [dist/index.html](dist/index.html).
+
 ## Running
 
 Start the demo with the following commands:
